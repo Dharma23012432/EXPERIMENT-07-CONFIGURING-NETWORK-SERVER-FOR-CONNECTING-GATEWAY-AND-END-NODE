@@ -77,15 +77,22 @@ To set APP Key
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/04faceae-5ee7-4d42-aa83-66c61e56a3b4" />
 
-<img width="1680" height="1060" alt="1" src="https://github.com/user-attachments/assets/1871354d-ceca-4e02-93a7-662fd7df2622" />
-<img width="1729" height="1069" alt="2(1)" src="https://github.com/user-attachments/assets/96bcc017-0c1b-4c4e-9948-37d27766b74e" />
-<img width="1625" height="1107" alt="3" src="https://github.com/user-attachments/assets/09c38f59-992a-433a-9a0b-5ccdda55b567" />
-<img width="1920" height="1200" alt="4" src="https://github.com/user-attachments/assets/a7b99e0e-2a4b-47c3-96f6-b57e9fe4c691" />
-<img width="1920" height="1200" alt="5" src="https://github.com/user-attachments/assets/c16983ce-215f-41f6-8e20-b11e628fa209" />
-<img width="1920" height="1200" alt="6" src="https://github.com/user-attachments/assets/76c6b6eb-9ec7-4b8f-8bda-cdd4626d7559" />
-<img width="1729" height="1081" alt="7(1)" src="https://github.com/user-attachments/assets/14589a0f-0840-4e15-9eff-3e262c2f1db9" />
-<img width="1729" height="1081" alt="8(1)" src="https://github.com/user-attachments/assets/ef3e310f-a7a4-471a-9436-d03222070433" />
-<img width="1729" height="1081" alt="9(1)" src="https://github.com/user-attachments/assets/bcbdbfbc-5f1f-4aab-9f66-6bf3965610b5" />
+<img width="1812" height="1127" alt="1" src="https://github.com/user-attachments/assets/cfeb6696-0965-4132-b204-97c51113183d" />
+<img width="1812" height="1127" alt="1" src="https://github.com/user-attachments/assets/22b01140-46d0-4200-a26e-09a07e71ac58" />
+<img width="1785" height="1127" alt="3" src="https://github.com/user-attachments/assets/43165fac-58a5-4706-9b7a-f0f7e8bed93f" />
+<img width="1777" height="1132" alt="4" src="https://github.com/user-attachments/assets/eb5ea4d3-c530-4a58-90ef-1c1b5bb3922d" />
+<img width="1796" height="1124" alt="5" src="https://github.com/user-attachments/assets/8e1c39a8-67f8-4ac7-9d98-bbdb9003997b" />
+<img width="1796" height="1124" alt="5" src="https://github.com/user-attachments/assets/1c0d88b0-cced-4f50-bc07-0870732c4495" />
+<img width="1793" height="1111" alt="7" src="https://github.com/user-attachments/assets/9e386477-b8a8-45f5-bc65-659881f53636" />
+<img width="1806" height="1109" alt="8" src="https://github.com/user-attachments/assets/2006acb1-5587-48d5-a87b-bd5cbea7ded3" />
+<img width="1781" height="1104" alt="9" src="https://github.com/user-attachments/assets/6e73371e-4a26-4dae-9812-34968da755f3" />
+<img width="1827" height="1150" alt="11" src="https://github.com/user-attachments/assets/08bd7a79-c9cb-45bb-977c-a9fbdb5b194e" />
+<img width="1804" height="1104" alt="13" src="https://github.com/user-attachments/assets/4871affb-c87b-4b4c-8ed9-f8939d782d32" />
+<img width="1812" height="1131" alt="14" src="https://github.com/user-attachments/assets/6f444141-f901-42bd-af73-f094e28c0957" />
+<img width="1789" height="1107" alt="15" src="https://github.com/user-attachments/assets/577d6a9c-0557-4f23-8ed8-8274c07bef06" />
+<img width="1805" height="1136" alt="111" src="https://github.com/user-attachments/assets/4d58afe7-1949-4814-8828-65937944aaf4" />
+<img width="1829" height="1087" alt="132" src="https://github.com/user-attachments/assets/d8b694be-f311-44f0-b1bd-6c1de31bd2f2" />
+
 
 
 ## Result: 
